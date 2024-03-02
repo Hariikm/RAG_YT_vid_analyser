@@ -1,0 +1,7 @@
+langchain
+langchain_community
+youtube_transcript_api
+openai
+gradio
+elevenlabs
+pyyaml
